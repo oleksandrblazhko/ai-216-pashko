@@ -4,4 +4,4 @@
 | Продукт/Пошукові фрази                     | Food           | Security         | Love  |              |             |
 | Glovo - https://glovoapp.com/ua/uk/odesa/  | 4              |                  |       |              |             | 
 | Venbest - https://venbest.ua/              |                |  3               |       |              |             | 
-| Badoo - https://badoo.com/uk/              |                |                  | 1     |              |             |
+| Badoo - https://badoo.com/uk/              |                |                  | 4     |              |             |

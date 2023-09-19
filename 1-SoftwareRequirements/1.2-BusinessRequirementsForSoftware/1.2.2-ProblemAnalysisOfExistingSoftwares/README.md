@@ -2,6 +2,6 @@
 |                                            |  Доступ до їжі | Особиста безпека | Любов | Тип ліцензії | Примітка    |
 | -------------------------------------------| ---------------|------------------|-------|--------------|-------------|
 | Продукт/Пошукові фрази                     | Food           | Security         | Love  |              |             |
-| Glovo - https://glovoapp.com/ua/uk/odesa/  | 4              |                  |       |              |             | 
-| Venbest - https://venbest.ua/              |                |  3               |       |              |             | 
-| Badoo - https://badoo.com/uk/              |                |                  | 4     |              |             |
+| Glovo - https://glovoapp.com/ua/uk/odesa/  | 4              |                  |       | Proprietary   |             | 
+| Venbest - https://venbest.ua/              |                |  3               |       | Proprietary   |             | 
+| Badoo - https://badoo.com/uk/              |                |                  | 4     | Proprietary   |             |

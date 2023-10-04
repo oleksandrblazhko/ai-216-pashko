@@ -1,9 +1,4 @@
-Feature: Інформація про безпечні стосунки
+Feature: Information on Safe Relationships
 
-Як користувач програми для безпечних стосунків
-Я хочу мати можливість знайти інформацію про безпечні стосунки з іншими людьми
-
-Scenario: Користувач шукає інформацію про безпечні стосунки
-Given користувач відкриває програму для безпечних стосунків
-When користувач вводить запит "Безпечні стосунки з іншими людьми"
-Then користувач бачить список статей і порад щодо безпечних стосунків
+As a user of the safe relationships program
+I want to be able to find information on safe relationships with others

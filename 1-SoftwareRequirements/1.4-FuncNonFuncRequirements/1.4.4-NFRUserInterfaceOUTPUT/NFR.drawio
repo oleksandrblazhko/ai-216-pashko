@@ -1,0 +1,254 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T10:56:28.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GJcEV5SPe05_HBCFVpf6" version="22.0.4" type="device">
+  <diagram name="Сторінка-1" id="VR9WbwTJlnucU9n_fdlq">
+    <mxGraphModel dx="4297" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="139" y="530" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-6" value="Переглянути поради щодо безпечних відносин з іншими людьми" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry x="300" y="190" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-7" value="Переглянути поради щодо безпечного харчуваня" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry x="40" y="190" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-17" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-18" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-20" value="Реєстрація" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="110" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-21" value="Ваша почта" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="90" y="145" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-22" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="90" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-23" value="У мене є акаунт" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry x="110" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-25" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-26" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-27" value="Авторизуватись" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="80" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-28" value="Ваша почта" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="90" y="145" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-29" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="90" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-30" value="У мене нема акаунту" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry x="110" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.017;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-30" target="We9PWBaz2mbOlkZBjMdl-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-23" target="We9PWBaz2mbOlkZBjMdl-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="432" as="sourcePoint" />
+            <mxPoint x="406" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.042;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.449;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-20" target="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="432" as="sourcePoint" />
+            <mxPoint x="406" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.013;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-27" target="We9PWBaz2mbOlkZBjMdl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="385" as="sourcePoint" />
+            <mxPoint x="387" y="557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-36" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="530" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-37" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-38" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-41" value="Внести свої дані для персоналізованих порад" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="260" y="330" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-42" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="10" y="120" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-44" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="230" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-45" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="390" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-46" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="230" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-47" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="390" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-54" value="Написати фахівцю" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry x="20" y="330" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-7" target="We9PWBaz2mbOlkZBjMdl-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="385" as="sourcePoint" />
+            <mxPoint x="396" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-49" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="940" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-50" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-51" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-56" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="150" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-58" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="150" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-59" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="150" y="239" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-61" value="Введіть вашу&amp;nbsp; стать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="10" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-62" value="Введіть ваш зрість та вагу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="10" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-63" value="Оберіть ваш стиль життя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="10" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-64" value="Виберіть ваші алергії" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="10" y="239" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-67" value="Зріст" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="150" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-68" value="Вага" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry x="230" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.487;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-41" target="We9PWBaz2mbOlkZBjMdl-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="788" as="sourcePoint" />
+            <mxPoint x="91" y="742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-71" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="530" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-72" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-71">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-73" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-71">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-84" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-71">
+          <mxGeometry x="10" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-87" value="Онлайн фахівець&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-71">
+          <mxGeometry x="180" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Ваше повідомлення" treeRoot="1" id="We9PWBaz2mbOlkZBjMdl-85">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="-1050" y="850" width="550" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Organization" treeRoot="1" id="We9PWBaz2mbOlkZBjMdl-86">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="-620" y="880" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.003;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-54" target="We9PWBaz2mbOlkZBjMdl-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-69" y="909" as="sourcePoint" />
+            <mxPoint x="-167" y="953" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-89" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="530" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-90" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-91" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-93" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="10" y="120" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-94" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="230" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-95" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="390" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-96" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="230" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-97" value="Стаття" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="390" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-98" value="Написати фахівцю" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry x="20" y="330" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-6" target="We9PWBaz2mbOlkZBjMdl-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="788" as="sourcePoint" />
+            <mxPoint x="91" y="742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-100" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="940" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-101" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-100">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-102" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-100">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-103" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-100">
+          <mxGeometry x="10" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-104" value="Онлайн фахівець&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="We9PWBaz2mbOlkZBjMdl-100">
+          <mxGeometry x="180" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="We9PWBaz2mbOlkZBjMdl-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.206;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.472;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="We9PWBaz2mbOlkZBjMdl-89" target="We9PWBaz2mbOlkZBjMdl-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="786" as="sourcePoint" />
+            <mxPoint x="746" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

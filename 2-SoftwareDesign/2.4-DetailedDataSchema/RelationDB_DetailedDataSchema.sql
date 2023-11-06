@@ -14,7 +14,7 @@ CREATE TABLE Request_Food (
 CREATE TABLE Request_Relationship (
     request_relationship_id INT PRIMARY KEY,
     user_id INT NOT NULL,
-    advice_text TEXT NOT NULL,
+    advice_text TEXT NOT NULL CHECK (LENGTH(advice_text) >= 25),
     FOREIGN KEY (user_id) REFERENCES User(user_id)
 );
 

@@ -46,7 +46,7 @@ CREATE TABLE Response (
 CREATE TABLE User (
     user_id INT PRIMARY KEY,
     login VARCHAR(255) NOT NULL CHECK (login ~ '^[A-Z][a-zA-Z]*$'),
-    password VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL CHECK (password ~ '^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$'),
     user_info_id INT NOT NULL,
     request_food_id INT,
     request_relationship_id INT,

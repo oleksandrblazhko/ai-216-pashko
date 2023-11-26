@@ -1,1 +1,1 @@
-![](https://www.plantuml.com/plantuml/proxy?cache=no&src=[твоє посилання](https://raw.githubusercontent.com/oleksandrblazhko/ai-216-pashko/Laboratory_Work_7/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)https://raw.githubusercontent.com/oleksandrblazhko/ai-216-pashko/Laboratory_Work_7/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)
+![](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-216-pashko/Laboratory_Work_7/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)

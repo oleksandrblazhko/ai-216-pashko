@@ -1,0 +1,16 @@
+@startuml
+
+title Activity Diagram (RequestForFood)
+
+start
+
+while(no click enter the method) 
+note right: if yes - show list, if no - exit
+:Software the program returns a list with nutritional recommendations;
+endwhile
+:return 0;
+note right: exit from method
+
+stop
+
+@enduml

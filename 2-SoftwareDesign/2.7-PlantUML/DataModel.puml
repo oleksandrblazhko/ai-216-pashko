@@ -1,0 +1,35 @@
+@startuml
+title Example of Relation Schema
+
+hide circle
+
+entity "User" as us {
+    (PK) user_id
+    --
+    login
+    password
+    --
+    (FK) user_info_id
+    (FK) request_food_id
+}
+
+entity "Request_Food" as rf {
+    (PK) request_food_id
+    --
+    advise_text
+    --
+    (FK) user_id
+}
+
+entity "User_Info" as ui {
+    (PK) user_info_id
+    --
+    name
+    allergies_or_deceases
+}
+
+
+us --{ rf
+ui -- us
+
+@enduml

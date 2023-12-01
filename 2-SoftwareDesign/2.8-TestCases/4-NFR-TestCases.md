@@ -1,0 +1,5 @@
+|NFR id|TC id|Опис кроків тестового сценарію|Опис очікуваних результатів|
+|:-----:|:-----:|:-----|:-----:|
+|FR1.2|TC 1.6|Початкові умови: відсутні<br> Кроки сценарію: відсутні|Екрана форма:<br>![TC1.5](https://github.com/oleksandrblazhko/ai-216-pashko/blob/Laboratory_Work_8/2-SoftwareDesign/2.8-TestCases/NFR%20(1)-%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-2%20(1).jpg)|
+|FR1.2|TC 1.7|Початкові умови: успішно пройдено TC1.5<br> Кроки сценарію:<br>пошта = glebpashko2004@gmail.com <br>пароль = myPASSWORD <br>|Екрана форма:<br>![TC1.6](https://github.com/oleksandrblazhko/ai-216-pashko/blob/Laboratory_Work_8/2-SoftwareDesign/2.8-TestCases/NFR%20(1)-%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-2.jpg)|
+|FR1.2|TC 1.8|Початкові умови: успішно пройдено TC1.6<br> Кроки сценарію:<br>Натиснути кнопку "Зареєструватись"|Екрана форма:<br>![TC1.7](https://github.com/oleksandrblazhko/ai-216-pashko/blob/Laboratory_Work_8/2-SoftwareDesign/2.8-TestCases/NFR%20(1)-%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-2%20(2).jpg)|
